@@ -23,11 +23,19 @@ namespace LogExpert
             return "Logfile Format used by me.";
         }
 
+        ///INFO
+        ///example of a log line, to test the plugin, create a txt file with this and read it from LogExpert
+        ///2019-07-03 07:09:21:34446|3580| 1|10|  1|(SocketServer/), CreateListenSocket() OK| | ThreadSocketServerProc
+
         public int GetColumnCount()
         {
             return 7;
         }
 
+        /// <summary>
+        /// to change header columns
+        /// </summary>
+        /// <returns></returns>
         public string[] GetColumnNames()
         {
             return new string[] { "Date", "Time", "PID", "#", "Level", "Thread", "Message" };
@@ -35,7 +43,7 @@ namespace LogExpert
 
         public string[] SplitLine(ILogLineColumnizerCallback callback, string line)
         {
-            string[] cols = new string[7] { "", "", "", "", "", "", ""};
+            string[] cols = new string[7] { "", "", "", "", "", "", ""};     //if you change length, remember to update GetColumnsCount method.
 
             String[] res = Regex.Split(line, "\\|");
 

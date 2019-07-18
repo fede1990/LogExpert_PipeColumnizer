@@ -40,8 +40,9 @@
     </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ColumnizerLib">
-      <HintPath>..\..\..\..\..\..\..\Programmi Portable\LogExpert\ColumnizerLib.dll</HintPath>
+    <Reference Include="ColumnizerLib, Version=1.7.1.0, Culture=neutral, PublicKeyToken=4f1de4c770adbe0a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Programmi Portable\LogExpert\plugins\ColumnizerLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
