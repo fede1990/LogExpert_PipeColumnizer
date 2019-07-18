@@ -16,3 +16,12 @@ C:\dev\LogExpert_PipeColumnizer\ColumnizerFede\obj\Release\PipeColumnizer.csproj
 C:\dev\LogExpert_PipeColumnizer\ColumnizerFede\obj\Release\PipeColumnizer.csproj.CopyComplete
 C:\dev\LogExpert_PipeColumnizer\ColumnizerFede\obj\Release\PipeColumnizer.dll
 C:\dev\LogExpert_PipeColumnizer\ColumnizerFede\obj\Release\PipeColumnizer.pdb
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\bin\Release\PipeColumnizer.dll
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\bin\Release\PipeColumnizer.pdb
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\bin\Release\PipeColumnizer.tlb
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\bin\Release\ColumnizerLib.dll
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\obj\Release\PipeColumnizer.csprojAssemblyReference.cache
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\obj\Release\PipeColumnizer.csproj.CoreCompileInputs.cache
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\obj\Release\PipeColumnizer.csproj.CopyComplete
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\obj\Release\PipeColumnizer.dll
+C:\Users\Federico\OneDrive\Documenti\GitHub\LogExpert_PipeColumnizer\PipeColumnizer\obj\Release\PipeColumnizer.pdb

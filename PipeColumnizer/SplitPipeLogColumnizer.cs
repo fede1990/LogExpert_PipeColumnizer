@@ -29,41 +29,55 @@ namespace LogExpert
 
         public int GetColumnCount()
         {
-            return 7;
+            return 9;
         }
 
-        /// <summary>
-        /// to change header columns
-        /// </summary>
-        /// <returns></returns>
         public string[] GetColumnNames()
         {
-            return new string[] { "Date", "Time", "PID", "#", "Level", "Thread", "Message" };
+            return new string[] { "Date", "Time", "Ticks", "PID", "#", "Level", "Thread", "Component/Method", "Message" };
         }
 
         public string[] SplitLine(ILogLineColumnizerCallback callback, string line)
         {
-            string[] cols = new string[7] { "", "", "", "", "", "", ""};     //if you change length, remember to update GetColumnsCount method.
-
+            string[] cols = new string[9] { "", "", "", "", "", "", "", "", "" };
             String[] res = Regex.Split(line, "\\|");
 
-            if (res.Length >= 5)
+            if (res.Length >= 6)
             {
                 String[] dateTime = Regex.Split(res[0], "\\s");
                 cols[0] = dateTime[0];
-                cols[1] = dateTime[1];
-                cols[2] = res[1];
+                cols[1] = dateTime[1].Substring(0, 8);
+                cols[2] = dateTime[1].Substring(9);
+                cols[3] = res[1];
 
-                cols[3] = res[2]; // 1
-                cols[4] = res[3]; // Level
-                cols[5] = res[4]; // Thread
-                string all = string.Join("|", res, 5, res.Length-5);
-                cols[6] = all;
+                cols[4] = res[2]; // 1
+                cols[5] = res[3]; // Level
+                cols[6] = res[4]; // Thread
 
+                int n = res[5].IndexOf("),");
+                string all = "";
+                int i = 0;
+
+                if (n > 0)
+                {
+
+                    cols[7] = res[5].Substring(1, n - 1);
+
+                    cols[8] = res[5].Substring(n + 3);
+                    i = 6;
+                }
+                else
+                {
+                    i = 5;
+                }
+
+                all = string.Join("|", res, i, res.Length - i);
+
+                cols[8] += all;
             }
             else
             {
-                cols[6] = line;
+                cols[8] = line;
             }
             return cols;
         }
