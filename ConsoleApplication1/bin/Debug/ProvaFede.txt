@@ -1,0 +1,100 @@
+2019-07-03 07:09:21:33976|3620| 1|10|  1|(SPIServiceLogonOff/), C:\Program Files (x86)\Intesa-SanPaolo\SPIServiceLogonOff\SPIServiceLogonOff.exe Ver. 1.0.0.9A| CSPIServiceLogonOffModule| 
+2019-07-03 07:09:21:33976|3620| 1|10|  1|(SPIServiceLogonOff/), BEGIN costruttore| CSPIServiceLogonOffModule| 
+2019-07-03 07:09:21:33976|3620| 1|10|  1|(SPIServiceLogonOff/), END costruttore SPIServiceLogonOff| CSPIServiceLogonOffModule| 
+2019-07-03 07:09:21:34016|3620| 1| 1|  1|(SPIServiceLogonOff/), ENTRY| PreMessageLoop| 
+2019-07-03 07:09:21:34016|3620| 1| 1|  1|(SPIServiceLogonOff/), EXIT| PreMessageLoop| 
+2019-07-03 07:09:21:34021|3620| 1| 1|  1|(SPIServiceLogonOff/), ENTRY| ThreadGestioneNotifiche| 
+2019-07-03 07:09:21:34343|3596| 1| 1|  1|(UniQMgrGlobalDysService/), UniQMgrGlobalDysService.exe Ver. 3.0.0.2| | UniQMgrGlobalDysService
+2019-07-03 07:09:21:34435|3580|250| 0| 19|(SPISock/), SPISocket Started| Run| 
+2019-07-03 07:09:21:34441|3580| 1| 1|  1|(SPISock/), ENTRY | | ThreadSocketServerProc
+2019-07-03 07:09:21:34442|3580| 1| 1|  1|(SPISock/), chiama CreateIoCompletionPort()| | ThreadSocketServerProc
+2019-07-03 07:09:21:34442|3580| 1|10|  1|(SPISock/), CompletiomPort() OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34443|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34443|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34443|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34443|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34444|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34444|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34444|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34444|3580| 1|10|  1|(SPISock/), Creation Thread OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34446|3580| 1|10|  1|(SPISock/), CreateListenSocket() OK| | ThreadSocketServerProc
+2019-07-03 07:09:21:34451|3620| 1|10|  1|(SPIServiceLogonOff/), ENTRY dwControl = 14| HandlerExProc| 
+2019-07-03 07:09:21:34451|3620| 1|10|  1|(SPIServiceLogonOff/), ricevuta notifica di SERVICE_CONTROL_SESSIONCHANGE| HandlerExProc| 
+2019-07-03 07:09:21:34451|3620| 1|10|  1|(SPIServiceLogonOff/), sessionId = 1| HandlerExProc| 
+2019-07-03 07:09:21:34451|3620| 1|10|  1|(SPIServiceLogonOff/), Evento non gestito di tipo 1| HandlerExProc| 
+2019-07-03 07:09:21:34740|2924| 1| 1|  1|(ServiziWindows.Device/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\ServiziWindows.Device_LOG| | TraceApp
+2019-07-03 07:09:21:34760|2924| 1| 1|  1|(ServiziWindows.Device/WinDeviceService), ENTRY| | .ctor
+2019-07-03 07:09:21:34761|3612| 1| 1|  1|(SPIDecoupleServer_Svc/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\SPIDecoupleServer_Svc_LOG| | TraceApp
+2019-07-03 07:09:21:34761|2924| 1| 1|  1|(ServiziWindows.Device/WinDeviceService), Version 2.0.0.14| | .ctor
+2019-07-03 07:09:21:34762|2924| 1|10|  1|(ServiziWindows.Device/WinDeviceService), Prima di SetErrorMode(SEM_FAILCRITICALERRORS)| | .ctor
+2019-07-03 07:09:21:34762|2924| 1|10|  1|(ServiziWindows.Device/WinDeviceService), Dopo SetErrorMode(SEM_FAILCRITICALERRORS)| | .ctor
+2019-07-03 07:09:21:34792|2924| 1| 1|  1|(Servizi.SpiUsbDevice/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\Servizi.SpiUsbDevice_LOG| | TraceApp
+2019-07-03 07:09:21:34792|2924| 1| 1|  1|(Servizi.SpiUsbDevice/UsbDevice), ENTRY| | .ctor
+2019-07-03 07:09:21:34793|2924| 1| 1|  1|(Servizi.SpiUsbDevice/UsbDevice), Ver. 1.0.0.8| | .ctor
+2019-07-03 07:09:21:34819|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), --Application Start--| | Main
+2019-07-03 07:09:21:34821|3612| 1| 1|  1|(SPIDecoupleServer_Svc/String), Ver. 2.2.0.2| | Init
+2019-07-03 07:09:21:34830|2700| 1| 1|  1|(ServiziWindows.ContestoTecnologico/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\ServiziWindows.ContestoTecnologico_LOG| | TraceApp
+2019-07-03 07:09:21:34832|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), ***************************************************| | OnStart
+2019-07-03 07:09:21:34834|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), ENTRY| | OnStart
+2019-07-03 07:09:21:34835|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Version 2.0.2.3| | OnStart
+2019-07-03 07:09:21:34845|2700| 1| 1|  1|(Servizi.ContestoTecnologico/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\Servizi.ContestoTecnologico_LOG| | TraceApp
+2019-07-03 07:09:21:34850|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), ENTRY SECTION : <PlugIn>  - KEY : <ISPDOMAIN>| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34888|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), Chiave SPIDecoupleKey non trovata| | Main
+2019-07-03 07:09:21:34888|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), Path file di configurazione: C:\Program Files (x86)\Intesa-Sanpaolo\SPIDecoupleClient\DecoupleConfig.xml| | Main
+2019-07-03 07:09:21:34929|2924| 1|10|  1|(Servizi.SpiUsbDevice/UsbDevice), m_sPathFileDeviceManagerCfg  : C:\Intesa-Sanpaolo\DATA\DeviceManagerCfg.xml| | .ctor
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), BEGIN| | LoadConfigurazione
+2019-07-03 07:09:21:34930|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), Valore : sanpaoloimi.com| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), Inizializzo le variabili con i valori di default| | LoadConfigurazione
+2019-07-03 07:09:21:34930|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), EXIT| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), timeFrequenzaControllo settato di default a = 5000| | LoadConfigurazione
+2019-07-03 07:09:21:34930|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), ENTRY SECTION : <PlugIn>  - KEY : <OraInizioCheckRete>| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), sNomeProcessoMSMQ settato di default a = mqsvc| | LoadConfigurazione
+2019-07-03 07:09:21:34930|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), Valore : 9:00| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), _mNomeCodaPopUp settato di default a = CommSvc| | LoadConfigurazione
+2019-07-03 07:09:21:34930|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), EXIT| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34930|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), _mNomeCoda settato di default a = SPIDecoupleQueue| | LoadConfigurazione
+2019-07-03 07:09:21:34931|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), ENTRY SECTION : <PlugIn>  - KEY : <MinMaxAttesaCheckRete>| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34931|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), Valore : 10| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34931|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), EXIT| getConfigValue| getConfigValue
+2019-07-03 07:09:21:34931|3612| 1| 1|  6|(SPIDecoupleServer_Svc/Int32), _mNomeFileXml settato di default a = C:\Intesa-SanPaolo\SPIDecoupleFileQueue.xml| | LoadConfigurazione
+2019-07-03 07:09:22:34938|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), nomeProcessoMSMQ = mqsvc| | LoadConfigurazione
+2019-07-03 07:09:22:34938|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), NomeCoda = SPIDecoupleQueue| | LoadConfigurazione
+2019-07-03 07:09:22:34938|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), NomeFileXml = C:\Intesa-SanPaolo\SPIDecoupleFileQueue.xml| | LoadConfigurazione
+2019-07-03 07:09:22:34938|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), defaultWS = http://clientinfosvc.2lb.#DOMAIN#:41888/SPISoapDispenser.asmx| | LoadConfigurazione
+2019-07-03 07:09:22:34938|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), END metodo LoadConfigurazione| | LoadConfigurazione
+2019-07-03 07:09:22:34939|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), BEGIN| | ServiceMain
+2019-07-03 07:09:22:34939|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), creato watcher| | ServiceMain
+2019-07-03 07:09:22:34940|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), isLogon False| | OnStart
+2019-07-03 07:09:22:34940|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), ENTRY SECTION : <SignalR>  - KEY : <Port>| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34941|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), Valore : 8011| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34941|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), Creazione FileSystemWatcher per C:\Intesa-SanPaolo\SPIDecoupleFileQueue.xml| | ServiceMain
+2019-07-03 07:09:22:34941|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), EXIT| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34941|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), ENTRY SECTION : <SignalR>  - KEY : <HTTP>| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34941|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), Valore : http| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34941|2700| 1|10|  4|(Servizi.ContestoTecnologico/ConfigUtil), EXIT| getConfigValue| getConfigValue
+2019-07-03 07:09:22:34942|2700| 1|10|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), SignalR url * : http://*:8011| | OnStart
+2019-07-03 07:09:22:34952|2924| 1| 1|  1|(ServiziWindows.Device/WinDeviceService), EXIT| | .ctor
+2019-07-03 07:09:22:34968|2924| 1| 1|  4|(ServiziWindows.Device/WinDeviceService), ENTRY| | OnStart
+2019-07-03 07:09:22:34971|2924| 1| 1|  4|(ServiziWindows.Device/WinDeviceService), DeviceManagerCfg XML C:\Intesa-Sanpaolo\DATA\DeviceManagerCfg.xml| | OnStart
+2019-07-03 07:09:22:34985|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), ENTRY| | starterThreadBody
+2019-07-03 07:09:22:34985|2924| 1|10|  6|(ServiziWindows.Device/WinDeviceService), Call CloseServiceHosts| | starterThreadBody
+2019-07-03 07:09:22:34987|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), ENTRY| | CloseServiceHosts
+2019-07-03 07:09:22:34988|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), Chiude tutti i serviziHosts 0| | CloseServiceHosts
+2019-07-03 07:09:22:34988|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), serviziHosts DOPO Clear 0| | CloseServiceHosts
+2019-07-03 07:09:22:34988|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), EXIT| | CloseServiceHosts
+2019-07-03 07:09:22:34988|2924| 1|10|  6|(ServiziWindows.Device/WinDeviceService), Call OpenServiceHost DeviceSyncService| | starterThreadBody
+2019-07-03 07:09:22:34992|2924| 1| 1|  6|(ServiziWindows.Device/WinDeviceService), ENTRY| | OpenServiceHost
+2019-07-03 07:09:22:35019|2924| 1| 1|  1|(Servizi.Device/TraceApp), m_sPathLog = C:\Intesa-Sanpaolo\DATA\Temp\Servizi.Device_LOG| | TraceApp
+2019-07-03 07:09:22:35074|3612| 1| 1|  6|(SPIDecoupleServer_Svc/SPIDecoupleServerService), avviato thread _TreadControllaOra| | ServiceMain
+2019-07-03 07:09:22:35440|2700| 1|10|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), SignalR START http://*:8011| | OnStart
+2019-07-03 07:09:22:35448|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), ScheduleAction partenza 04/07/2019 09:00:00| | OnStart
+2019-07-03 07:09:22:35450|2700| 1| 1| 10|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Start ContestoService 03/07/2019 07:09:22| | ServiceStartup
+2019-07-03 07:09:22:35451|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Attesa ScheduleAction ExecutionTime 04/07/2019 09:03:03| | MoveNext
+2019-07-03 07:09:22:35460|2700| 1| 1|  4|(ServiziWindows.ContestoTecnologico/WinContestoTechService), EXIT| | OnStart
+2019-07-03 07:09:22:35461|2700| 1| 1|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), ENTRY| | <CheckNetworkDataToSend>b__7
+2019-07-03 07:09:22:35463|2700| 1| 1|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), ENTRY| | ReadLastISPNetwork
+2019-07-03 07:09:22:35463|2700| 1|10|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Leggo i parametri dal registry Software\Intesa-SanPaolo\ContestoTecnologico| | ReadLastISPNetwork
+2019-07-03 07:09:22:35464|2700| 1| 1|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), EXIT| | ReadLastISPNetwork
+2019-07-03 07:09:22:35464|2700| 1| 1|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Data adesso       : 2019-07-03 07:09:22.526| | <CheckNetworkDataToSend>b__7
+2019-07-03 07:09:22:35464|2700| 1| 1|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Data ultimo invio : 02/07/2019 07:09:21| | <CheckNetworkDataToSend>b__7
+2019-07-03 07:09:22:35464|2700| 1|10|  6|(ServiziWindows.ContestoTecnologico/WinContestoTechService), Possibile Evento per invio CheckGG| | <CheckNetworkDataToSend>b__7

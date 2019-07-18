@@ -1,0 +1,7 @@
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\bin\Release\ColumnizerFede.dll
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\bin\Release\ColumnizerFede.pdb
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\bin\Release\ColumnizerFede.tlb
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\bin\Release\ColumnizerLib.dll
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\obj\Release\ColumnizerFede.csprojResolveAssemblyReference.cache
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\obj\Release\ColumnizerFede.dll
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ColumnizerFede\obj\Release\ColumnizerFede.pdb

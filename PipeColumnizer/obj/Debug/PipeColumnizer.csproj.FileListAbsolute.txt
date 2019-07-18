@@ -1,0 +1,8 @@
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\bin\Debug\PipeColumnizer.dll
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\bin\Debug\PipeColumnizer.pdb
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\bin\Debug\ColumnizerLib.dll
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\obj\Debug\PipeColumnizer.csprojAssemblyReference.cache
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\obj\Debug\PipeColumnizer.csproj.CoreCompileInputs.cache
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\obj\Debug\PipeColumnizer.csproj.CopyComplete
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\obj\Debug\PipeColumnizer.dll
+C:\dev\LogExpert_PipeColumnizer\PipeColumnizer\obj\Debug\PipeColumnizer.pdb

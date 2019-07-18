@@ -1,0 +1,13 @@
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+c:\profili\u0i3691\documents\visual studio 2013\Projects\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\dev\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\dev\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\dev\ColumnizerFede\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\dev\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojAssemblyReference.cache
+C:\dev\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\dev\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\dev\ColumnizerFede\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
