@@ -32,6 +32,10 @@ namespace LogExpert
             return 9;
         }
 
+        /// <summary>
+        /// to change header columns
+        /// </summary>
+        /// <returns></returns>
         public string[] GetColumnNames()
         {
             return new string[] { "Date", "Time", "Ticks", "PID", "#", "Level", "Thread", "Component/Method", "Message" };
@@ -39,7 +43,7 @@ namespace LogExpert
 
         public string[] SplitLine(ILogLineColumnizerCallback callback, string line)
         {
-            string[] cols = new string[9] { "", "", "", "", "", "", "", "", "" };
+            string[] cols = new string[9] { "", "", "", "", "", "", "", "", "" };   //if you change length, remember to update GetColumnsCount method.
             String[] res = Regex.Split(line, "\\|");
 
             if (res.Length >= 6)
